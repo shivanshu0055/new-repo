@@ -5,3 +5,7 @@ function age(num){
 age(12)
 
 age(13)
+
+function sayMyName(){
+    return "Your name is : Shivanshu"
+}
