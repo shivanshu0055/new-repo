@@ -9,8 +9,3 @@ age(13)
 function sayMyName(){
     return "Your name is : Shivanshu"
 }
-
-
-function newFunc(){
-    return "ABC"
-}
