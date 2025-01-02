@@ -3,3 +3,5 @@ function age(num){
 }
 
 age(12)
+
+age(13)
